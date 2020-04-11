@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 void prime();
-bool number[10000];
+bool number[10005];
 int main()
 {
 	prime();
